@@ -1,0 +1,14 @@
+D:\BÁCH KHOA\HK 231 (5)\Hệ cơ sở dữ liệu\New\New\bin\Debug\New.exe.config
+D:\BÁCH KHOA\HK 231 (5)\Hệ cơ sở dữ liệu\New\New\bin\Debug\New.exe
+D:\BÁCH KHOA\HK 231 (5)\Hệ cơ sở dữ liệu\New\New\bin\Debug\New.pdb
+D:\BÁCH KHOA\HK 231 (5)\Hệ cơ sở dữ liệu\New\New\obj\Debug\New.Form1.resources
+D:\BÁCH KHOA\HK 231 (5)\Hệ cơ sở dữ liệu\New\New\obj\Debug\New.Properties.Resources.resources
+D:\BÁCH KHOA\HK 231 (5)\Hệ cơ sở dữ liệu\New\New\obj\Debug\New.csproj.GenerateResource.cache
+D:\BÁCH KHOA\HK 231 (5)\Hệ cơ sở dữ liệu\New\New\obj\Debug\New.csproj.CoreCompileInputs.cache
+D:\BÁCH KHOA\HK 231 (5)\Hệ cơ sở dữ liệu\New\New\obj\Debug\New.exe
+D:\BÁCH KHOA\HK 231 (5)\Hệ cơ sở dữ liệu\New\New\obj\Debug\New.pdb
+D:\BÁCH KHOA\HK 231 (5)\Hệ cơ sở dữ liệu\New\New\obj\Debug\New.UserControl2.resources
+D:\BÁCH KHOA\HK 231 (5)\Hệ cơ sở dữ liệu\New\New\obj\Debug\New.csproj.AssemblyReference.cache
+D:\BÁCH KHOA\HK 231 (5)\Hệ cơ sở dữ liệu\New\New\obj\Debug\New.ModifyForm.resources
+D:\BÁCH KHOA\HK 231 (5)\Hệ cơ sở dữ liệu\New\New\obj\Debug\New.AddForm.resources
+D:\BÁCH KHOA\HK 231 (5)\Hệ cơ sở dữ liệu\New\New\obj\Debug\New.BorrowerItem.resources
